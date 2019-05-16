@@ -1,0 +1,4 @@
+com\evry\fs\payment\ems\srv\dao\mapper\EmployeeDaoMapperTest.class
+com\evry\fs\payment\pms\srv\dao\ProjectDaoTest.class
+com\evry\fs\payment\pms\srv\dao\mapper\ProjectDaoMapperTest.class
+com\evry\fs\payment\ems\srv\dao\EmployeeDaoTest.class

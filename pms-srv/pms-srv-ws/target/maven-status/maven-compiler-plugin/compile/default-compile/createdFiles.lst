@@ -1,0 +1,4 @@
+com\evry\fs\payment\ems\srv\ws\service\EmployeeServiceV191Impl.class
+com\evry\fs\payment\pms\srv\ws\service\ProjectServiceV191Impl.class
+com\evry\fs\payment\pms\srv\service\mapper\ProjectV19_1WsMapper.class
+com\evry\fs\payment\ems\srv\service\mapper\EmployeeV19_1WsMapper.class
